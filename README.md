@@ -1,6 +1,6 @@
 The Big Data Analytics Repository is a comprehensive collection of tools and technologies designed to handle large volumes of data efficiently. It incorporates key technologies like Hadoop, MapReduce, Spark, and Kafka to enable scalable and distributed data processing. Hadoop serves as the foundational framework, providing distributed storage and processing capabilities across clusters of computers. MapReduce is a programming model that Hadoop utilizes to process vast amounts of data in parallel. Spark extends this capability with advanced in-memory processing, making it faster than traditional MapReduce for certain applications. Kafka complements these frameworks by providing a distributed event streaming platform, enabling real-time data processing and integration within the analytics pipeline.
 
-Readme Overview
+Readme Overview :
 The Readme file serves as a guide to navigating and understanding the Big Data Analytics Repository. It outlines the repository's structure, purpose, and key components, including:
 
 Introduction: Brief overview of the repository's goals and contents.
